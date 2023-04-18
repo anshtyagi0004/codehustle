@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "you-tube-api-key-384106",
+  "private_key_id": "af5d3a9185203fad853d1f2504eacfbe5752250d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCagFFta8EK6JtT\nMllHA2EeWAPjuM/ZIsGomq8Wvd3pCns4pgt+L0AxQMfaPNm9Q5hMr5cfPAwWPXwq\n2nIyDCPzIA0lUGkiA1FcvE8HH4EHQWLY1kFUwGFP3uc25LiWd6p38sqgC0LBXPLU\n1xHDKKaSCm28CyZx6k8V39T/v0znhrPDsaW1AaKu1oy3ygHbHBa8ozqm0uKID+I7\njM6OwgeID4qd9Ibhbs38dpN8uMzHyU8DvzK6TvNTNp0tFt8Ch9wI/mQ9lKxMeoLs\nqltSaRx8UzReHmmRrTCSFW8LuWix+qwoeGgJEW35TTwGdIgHsdSQkqs/jPCTV9to\nRSb45eyrAgMBAAECggEACDpBG9SbKRuN+fY6bt+tMlJ5kozq9KM3MOVb4Zgm0xwt\nx6x//C5D+tt6SRLofX22BI9tOsqV0jFgBWAwqJ2g5HeWe6A2mQsYMBoPE1AILPy8\naNOwEvVTuU8jfPbdJZYly9FwHOm8mlN60v7JAV2O0UQg59yoJXTW1VFgJGZpkAK1\nISx3bgilswXIjth39qMOg2LxTeuldrRvxf+l3pFRKfa0GWqFna71C/bjgmJe1wPL\niVSeDZXVCokJTqI2TZ8itGcO5WsGljIzKY6evZH7Gi4mwYBmVWymS7MPbxweSuiM\n//oFnbsV9UrZOSLgOf7ebTBKSJ8S9+vJOJ9Fad+/4QKBgQDUudkPH4Xx73ztWWPH\nz4VURmJPqKVxLQ4hnT+0eOo0IKtGzhT+skWOKNSnADfIFZSJLZbNMTBsKtQnxPLn\nAmjsQ7qm0XRwArw2NLhsOB9e9VC0LOHG8HbsLfi1RRmnQDSHhsE41MM8vAVydAoR\nsiJlT3jRqqgj+/KM/TUZZeoAQwKBgQC57kuPgWECfH2Ykv22qc8CihlBx2MJBcdU\nK+nwZ8OZp6h6YKAUa0ShK86Ph15z8Yk7/4RtALEv12XYKdOBeaI2qbOUmn2KGUXm\n7FWr5dyK5wJunPrsb2gq1rxndkM6jB53VaXBokhY0muLqeGiIpLHIFVN2gnyEyjH\ntpRg0YqveQKBgQCK43CRzC4jAQ8a1IMuQRK3LGEhy2WBWD5iug2O4mdfc3kAeKsC\nhBifsY7uHllNPLHHQsmz3QrVhL0R3igNpeglYi8qnZSdUVvbNF644Yex8w8nJCqh\nPf0XRQieKaiPJ39kgRoE5f022TfhO1wbo6eLZ/DlS7wOCoCZhvS1SXIXiwKBgEb2\neSZTVegyBWmXKHhwBQ9OD+e4JsdJylMI06eqos/hWn8io9ZHPpFY++Rx4Q3VcPBS\nTIOh0P6Wckt3Yz82YkAEswKTmDh9/tzs9KHAAFWPZ7E5/tcAijxXat7+FxigY/xd\n1v65Zm1oGh3a/7/2/Bg98fDduBAJWfYnbCgrsYfZAoGBAIveMn4ZpgFNFiPAS/9L\nED2IsicdexcrhTANpXw3W6HdJYdnbVPBv00K9pg20Gl0Ntiq0qQqeY4BM+j6Vl0P\nuyzmyps9uXwJkByHQBL5f6ov95bI6a+Poa2bzYDaC0L7kIMJ6MsiZU3ohvPLYbZJ\nFwJOQtnmgYN0WldmefDXVlJR\n-----END PRIVATE KEY-----\n",
+  "client_email": "anushka-sharma@you-tube-api-key-384106.iam.gserviceaccount.com",
+  "client_id": "113708807520339112600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anushka-sharma%40you-tube-api-key-384106.iam.gserviceaccount.com"
+}
