@@ -1,3 +1,3 @@
 # codehustle
-Ansh Tyagi \n
+<p>Ansh Tyagi</p>
 Anushka Sharma
